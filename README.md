@@ -7,13 +7,13 @@ The repository is research for babylonjs with browser based metaverse like app.
 First Start server. (if in first time, you need to install packages with npm install)
 ```
 cd server
-npm install // in first time
+npm install // at first time
 npm run dev
 ```
 And then, you start client side.
 ```
 cd ../front
-npm install // in first time
+npm install // at first time
 npm run dev
 ```
 Access **http://locahost:8080** on your browser.
